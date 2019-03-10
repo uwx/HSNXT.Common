@@ -4,6 +4,8 @@ using System.Reflection;
 using static System.Linq.Expressions.Expression;
 using static HSNXT.SimpleTamper.Expressions.ExpressionsBase;
 
+// Extracted from a version of HSNXT.SimpleTamper, originally at uwx/SimpleTamper at March 10th, 2019.
+
 namespace HSNXT.SimpleTamper.Expressions
 {
     // this can't be inside the class or fody type cache dies
