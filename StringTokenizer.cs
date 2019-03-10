@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+// Taken from TileCrammer at ??
+
 namespace HSNXT.Common
 {
     public interface IStringTokenizer : IEnumerable<string>, IPeekableEnumerator<string>
